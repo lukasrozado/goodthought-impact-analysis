@@ -1,0 +1,1 @@
+# GoodThought Impact Analysis
