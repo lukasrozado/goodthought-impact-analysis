@@ -13,7 +13,6 @@ donation and assignment data using SQL queries.
 ## 🛠️ Technologies Used
 
 - SQL (for querying datasets)
-- Python (for data manipulation and notebook integration)
 - Jupyter Notebook / SQL Workbench (for execution environment)
 
 ## 📁 Outputs
@@ -32,12 +31,6 @@ Highest-impact assignment per region with at least one donation, showing:
 - Impact Score
 - Total Number of Donations
 
-## 🚀 Getting Started
-
-To reproduce the analysis:
-1. Load the SQL database or dataset containing donation, assignment, and region information.
-2. Run the SQL queries included in the project notebook/script.
-3. Validate outputs match the required column names and formats.
 
 ## 📝 Author
 
